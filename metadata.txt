@@ -7,8 +7,8 @@ name=knGML2GPKG
 qgisMinimumVersion=3.0
 description=Convert Slovak cadastral GML files (KN Register C and E) to GeoPackage or DXF with automatic coordinate transformation and fixes
 version=0.1
-author=cabaj
-email=jan807931@gmail.com
+author=Jan Cabaj
+email=jancabaj47@gmail.com
 
 about=This plugin converts Slovak cadastral GML files (Register C and Register E) to GeoPackage (GPKG) or DXF format. It automatically handles coordinate transformation from EPSG:4258 to EPSG:5514, fixes corrupt parcels with swapped coordinates, and applies default styling. Supports batch processing of multiple GML file pairs.
 
