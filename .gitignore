@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# QGIS
+*.qm
+help/build/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.gfs
+*.bak
+*.tmp
+
+# Plugin deployment
+*.zip
+
+# Test data (if you add test GML files)
+test_data/
+*.gml
+*.gpkg
+*.dxf
